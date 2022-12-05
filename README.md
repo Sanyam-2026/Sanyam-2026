@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sanyam-2026
-- 👀 I’m interested in Contributing in Oprn Source
+- 👀 I’m interested in Contributing in Open Source
 - 🌱 I’m currently learning Cloud Computing
 - 💞️ I’m looking to collaborate on  with some enthusiastic person 
 - 📫 How to reach me - 
